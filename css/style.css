@@ -1,0 +1,104 @@
+
+.text{
+    
+    padding-top: 3%;
+    text-indent: 40px;
+    color: rgb(85, 83, 83);
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: lowercase;
+    
+}
+
+
+
+header{
+   
+    margin-top: 30px;
+    width:901px;
+    margin:45px auto;
+    height: 100px;
+    
+}
+
+header img{
+    float:left;
+
+}
+
+nav li{
+    display: inline-block;
+
+}
+
+nav ul{
+    float:right;
+    margin-top: 10px;
+    vertical-align: text-top;
+
+}
+
+
+header dl {
+    float:left;
+    margin-left: 10px;
+}
+
+header dt {
+    font-family: 'Yellowtail', cursive;
+    font-size: 32px;
+
+
+}
+header dd {
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: uppercase;
+    font-size: 11px;
+
+}
+
+hr {
+    clear: both;
+
+}
+main {
+    width:901px;
+    margin:45px auto;
+}
+h1 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 40px;
+    
+
+}
+ /* main p{
+
+    font-family: 'Open Sans Condensed', sans-serif;
+    text-transform: lowercase;
+    font-size: 10px;
+} */
+
+main #print{
+    float:right;
+    margin-top: 10px;
+    vertical-align: text-top;
+    width:40px; 
+ }
+h1{
+    font-weight: bold;
+   
+}
+.p1{
+    color: grey;
+}
+.choco{
+    padding-bottom: 2%;
+}
+
+.button{
+    width: 200px;
+    height: 50px;
+    font-size: 15px;
+    background-color: rgb(221, 99, 99);
+    float: right;
+}
